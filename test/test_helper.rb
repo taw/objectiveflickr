@@ -1,2 +1,2 @@
-require 'test/unit'
-require File.dirname(__FILE__) + '/../lib/objectiveflickr'
+require 'minitest/autorun'
+require_relative '../lib/objectiveflickr'
